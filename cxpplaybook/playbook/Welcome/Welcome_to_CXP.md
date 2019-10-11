@@ -1,7 +1,7 @@
 # Welcome to CXP
 
 
-**The FTA team is part of the Azure Customer Experience Engineering (CXP) team, which in turn is part of the Azure Engineering organization.**
+**The community team is part of the Azure Customer Experience Engineering (CXP) team, which in turn is part of the Azure Engineering organization.**
 
 ## Azure Customer Experience Engineering (CXP) Mission and Purpose
 
