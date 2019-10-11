@@ -1,6 +1,5 @@
 # Welcome to CXP
 
-Topic SME: [Kuber Sharma](mailto:kushar@microsoft.com)
 
 **The FTA team is part of the Azure Customer Experience Engineering (CXP) team, which in turn is part of the Azure Engineering organization.**
 
