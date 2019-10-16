@@ -57,7 +57,7 @@ Use [New@Microsoft](https://microsoft.sharepoint.com/sites/infopedia/GlobalLearn
 We recommend making [Microsoft Web (MSW)](https://microsoft.sharepoint.com/sites/msw/Pages/default.aspx) your homepage
 
 
-**How can I get IT help?**
+**How can I get IT help ?**
 
 Go to [IT Help](https://microsoft.sharepoint.com/teams/SupportMadeEasy/_layouts/15/start.aspx#/SitePages/Home.aspx) for New Employees
 
