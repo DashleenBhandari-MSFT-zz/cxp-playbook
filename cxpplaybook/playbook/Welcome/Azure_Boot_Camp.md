@@ -1,6 +1,6 @@
 # Azure Bootcamp
 
-Topic SME: [Kuber Sharma](mailto:kushar@microsoft.com)
+Topic SME: [Mohit Verma](mailto:moverm@microsoft.com)
 
 The Azure Engineering Boot Camp training program is new hire training with three required event offerings: Hands-On Labs, Business & Technical Overview and Azure Connect Day to help new Azure employees get quickly up-to-speed in understanding Azure and its culture. Cloud + AI new hires are automatically registered for the Hands-On Labs and the Technical Overview.
 
@@ -37,7 +37,7 @@ If you need any help with editing these tables, please contact [Thomas Martinez]
 
 <!--
 
-If you need any help with editing these tables, please contact [Thomas Martinez](mailto:Thomas.Martinez@microsoft.com)
+If you need any help with editing these tables, please contact [Mohit Verma](mailto:Verma.Mohit@microsoft.com)
 
 -->
 
@@ -50,19 +50,19 @@ If you need any help with editing these tables, please contact [Thomas Martinez]
 
 **What is the Azure Bootcamp?**
 
-Go to [Azure Bootcamp](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Welcome/Azure_Boot_Camp.md)
+Go to [Azure Bootcamp](https://github.com/Azure/cxp-playbook/blob/dev/cxpplaybook/playbook/Welcome/Azure_Boot_Camp.md)
 
 **What goes on in the Azure Bootcamp?**
 
-Go to [Hands-On-Lab Agenda](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Welcome/Azure_Boot_Camp.md#hands-on-labs-5-days-agenda)
+Go to [Hands-On-Lab Agenda](https://github.com/Azure/cxp-playbook/blob/dev/cxpplaybook/playbook/Welcome/Azure_Boot_Camp.md#hands-on-labs-5-days-agenda)
 
 **What materials do I need for the Azure Bootcamp?**
 
-Go to [Bootcamp Resources](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Welcome/Azure_Boot_Camp.md#resources). You should also have:
+Go to [Bootcamp Resources](https://github.com/Azure/cxp-playbook/blob/dev/cxpplaybook/playbook/Welcome/Azure_Boot_Camp.md#resources). You should also have:
 
 - [Azure Engineering Boot Camp Home Page](https://microsoft.sharepoint.com/teams/WAG/Bootcamp/SitePages/Home.aspx)
 - [HOL & Latest Presentations](https://microsoft.sharepoint.com/teams/WAG/Bootcamp/HOLLatestPresentations/Forms/AllItems.aspx?viewpath=%2Fteams%2FWAG%2FBootcamp%2FHOLLatestPresentations%2FForms%2FAllItems.aspx)
 
 **Who owns the Azure Bootcamp playbook area?**
 
-[Kuber Sharma](mailto:kushar@microsoft.com)
+[Mohit Verma](mailto:moverm@microsoft.com)
