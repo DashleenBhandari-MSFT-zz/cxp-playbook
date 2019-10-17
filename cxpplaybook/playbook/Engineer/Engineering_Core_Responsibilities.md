@@ -35,21 +35,22 @@ It’s important that we all have one set of very clear Priorities that we march
 
    **Champion Customer Success**
    
-    - Build relationships and credibility with Service teams to establish effective communication channels. 
-    - Follow the customer journey in the community channels (for e.g. Twitter/Chat to forums to support) to ensure a great 
-      customer  experience 
-    - Build customer credibility through accumulated community points, blogs etc. 
-    - Identify and pilot new community channels to support e.g. Azure Advisors, MVP DLs, WW Communities etc.   
+ - Build relationships and credibility with Service teams to establish effective communication channels. 
+ - Follow the customer journey in the community channels (for e.g. Twitter/Chat to forums to support) to ensure a great  customer  experience 
+ - Build customer credibility through accumulated community points, blogs etc.
+ - Identify and pilot new community channels to support e.g. Azure Advisors, MVP DLs, WW Communities etc.
+     
 
-   **Teamwork and Accountability**
+   **Teamwork and Accountability**   
 
-    - Exceed established SLA’s for supported community Channels while raising the Quality bar for the community
-    - Monitor the community health for the service area and anticipate rising issues 
-    - Become the SME for my service area and take the initiative to improve the awareness and depth of knowledge for the area 
-    - Work collaboratively with the team to help on customer queries. 
-    - Build Effective readiness content for new community engineers 
-    - Mentor LEAP candidates during their apprenticeship providing guidance and feedback as appropriate 
-
+ - Exceed established SLA’s for supported community Channels while raising the Quality bar for the community
+ - Monitor the community health for the service area and anticipate rising issues
+ - Become the SME for my service area and take the initiative to improve the awareness and depth of knowledge for the area 
+ - Work collaboratively with the team to help on customer queries. 
+ - Build Effective readiness content for new community engineers
+ - Mentor LEAP candidates during their apprenticeship providing guidance and feedback as appropriate
+     
+    
   **Engineering-Led Community Transformation**
  
    -  Identify and implement opportunities to utilize community data to increase operational efficiency getting the right answers to 
@@ -63,11 +64,11 @@ Build an engaged Azure engineering presence in our Community Channels.  Contri
 
 **What are CXP Community Engineers responsible for?**
 
-Go to [Engineer Core Responsibilities](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#fastrack-engineer-core-responsibilities) and/or [FastTrack Engineer Expectations](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#fastrack-engineer-expectations)
+Go to [Engineer Core Responsibilities](https://github.com/Azure/fta-playbook/blob/master/cxpplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#fastrack-engineer-core-responsibilities)
 
 **What are the Core Priorities for FastTrack members?**
 
-[Core Priorities for all FastTrack team members](https://github.com/azure-cxp-community/cxp-playbook/blob/master/cxpplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#core-priorities-for-all-fasttrack-team-members)
+[Core Priorities for all CXP Community team members](https://github.com/azure-cxp-community/cxp-playbook/blob/master/cxpplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#core-priorities-for-all-CXP-Community-team-members)
 
 **Who owns the Engineer Core Responsibilities playbook area?**
 
