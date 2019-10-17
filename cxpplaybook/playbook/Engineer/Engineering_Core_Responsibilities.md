@@ -1,70 +1,69 @@
 # Engineering Core Responsibilities
 
-Topic SME: [Nomita Paul](mailto:Nomita.Paul@microsoft.com)
+Topic SME: [Mohit Verma](mailto:verma.mohit@microsoft.com)
 
-> ## Fastrack Engineer Core Responsibilities
-
-Manages guiding the customer through the technical tasks of configuring proof-of-concept environment in Azure. The engineer drives execution, facilitates technical discussions around questions, and helps make architecture/design recommendations for the customer going forward from the engagement.
-
-### **Customer Project**
-
-- Responsible in success of delivery of a customer Project engagement relevant to the customer's needs
-- Proactively understand customer needs, their Azure awareness and desired outcome to deliver a meaningful engagement
-- Capture and address all pertinent questions customer questions and utilize the knowledge in enhancing the IP content
-- Enable PMs to accomplish monthly check-ins and email follow-ups with any assistance required
-- Capture relevant product inputs in a tooling system by the engagement end and own its follow up with the engineering counter part
-- Support PMs with answering captured questions.
-- Highlight areas that program team would like to receive feedback during exit interviews.
-- Deliver a Closing Report for the field to pursue next follow-ups with customers within a SLA of 5 business days.
-
-### **IP - Content Curation**
-
-Be a part of a v-team of FT engineers that curates IP with the help of SME's from PG, CSA's, CAT and support
-
-### **Customer Feedback**
-
-Responsible for collection of Product feedback is instrumental to improving Azure services. Make sure to add the office hours to your calendar for training along with process workflows and best practices.
-
-> ## Fastrack Engineer Expectations
-
-There are Expectations for all the stages during the customer journey that must be met. These Expectations are for Microsoft and partner-initiated engagements.
-
-### **Expectations:**
-
-- Project and Engagement Engineers are responsible for [Documentation Hygiene](https://microsoft.sharepoint.com/:w:/t/AzureFastTrackCoreandExtended/ETZ2p1YWOHRFm5_T8EneII4B0GHAXhYmIGw554ZpO1-2YA?e=NGrRKM) (capturing customer call/engagement notes in OneNote and updating Ceres)
-- The FastTrack PM should send a Primary Project Engineer introduction email to the customer within 2 business days of engineer self-assignment
-- The Primary Project Engineers should contact Customer to acknowledge introduction & confirm Technical Discovery meeting dates within 2 business days from the date that the PM made introduction
-- FastTrack Engineers should include PM's on all customer communications
-- FastTrack Engineers are responsible for checking unassigned projects and engagements in Ceres daily and self-assigning themselves based on level of expertise and availability.
-- FastTrack Primary Project Engineers are responsible for preparing and creating the Customer Engagement Plan in Ceres
-
-**IMPORTANT:** Review the PM/Engineer [RACI Chart](https://microsoft.sharepoint.com/:x:/t/AzureFastTrackCoreandExtended/EQaL6KCjo0ZKnxXhSVWC1MEBSjJ1OyJKvscAo1uYTAXZTQ?rtime=3Up_vZUl10g) that clearly defines whether a PM or Engineer or Lead is Responsible, Accountable, Consulted and/or Informed for each task throughout the customers lifecycle with FTA.  This document is the primary source of truth on best practices for ALL global PMs and Engineers to follow.
-
-**IMPORTANT:**  [Documentation Hygiene specifics found here](https://microsoft.sharepoint.com/:w:/t/AzureFastTrackCoreandExtended/ETZ2p1YWOHRFm5_T8EneII4B0GHAXhYmIGw554ZpO1-2YA?e=NGrRKM)
-
-> ## Core Priorities for all FastTrack team members
+> ## Core Priorities for all CXP Community team members
 
 It’s important that we all have one set of very clear Priorities that we march to as a connected team. So the entire team has the following core priorities in their connect:
 
-1. **Support Azure business growth by increasing consumption of Azure and enabling Azure 2020 growth goals.**
-    - **Success metrics:** Contribute to the FastTrack program goals of  Incremental revenue: $191M; Workloads in production: 20% ( of onboarded)
-1. **Improve customer satisfaction and success with the use of Azure.**
-    - **Success metrics:** Excellence in enabling deployment as measured through world class  satisfaction of NSAT: 170; NPS: 60.  Customer stories captured for production customers.  Be a customer advocate  supporting broader Azure engineering teams.
-1. **Drive efficiencies across FastTrack.**
-    - **Success metrics:** Drive efficiency and automation through processes, tools, and our engagement model.  Conversion of opportunity to onboarded is 35%.  Aging meets engagement SLAs.  Enlist 5% of customers for reference activities.  Efficient release, adoption and use of CERES that drives actionable insights.
-1. **Improve Azure product experiences via closed loop customer feedback.**
-    - **Success metrics:** Capture customer feedback, both expressed and observed, from 75% of engaged customers( ~1 per engagement).  Identify relevant patterns spanning technologies, projects and drive development of enduring artifacts that impact product engineering.  Ensure relevant Field, CXP and Product Group teams receive feedback and track response and actions.  
+1. **Champion Customer Success**
+     Engage directly with customers in supported Azure Community channels.  Effectively leverage tooling, data insights, Azure doc and engineering resources as necessary to remove Customer blockers that prevent deployment, usage or service adoption/growth. 
+     - Embody Customer Obsession by deeply understanding customer usage scenarios, anticipate their support needs, and maniacally deliver high quality and timely answers.
+     - Demonstrate Engineering Mindset by identifying top customer impacting issues and associated root causes for your service area.  Partner with your Azure Services teams to effectively drive product improvements to address the most impactful issues.
+     - Improve customer satisfaction in Azure Forums by focusing on their desired outcomes, envisioning new opportunities and removing obstacles that impede customer goals.
+     
+1. **Teamwork and Accountability**
+     Be accountable to our customers while also supporting our peers.  Help drive a shift in team culture to being truly customer-obsessed.  Work as a unified CXP team and help remove unnecessary organizational boundaries.
+     - Work together as a unified, customer obsessed team and seek to inject customer obsession and a sense of urgency across CXP and Azure engineering. 
+     - Inspire and support those around you to do their best work through collaboration, acknowledgment of lessons learned, and persistence in the face of setbacks
+     - Share your expertise across the team to improve technical depth and capabilities of all team members. 
+     - Work collaboratively to ensure everyone on the team succeeds.  Mentor new team members to help them learn and adopt our
+       culture  while growing their technical skills and customer empathy. 
+       
+1. **Engineering-Led Community Transformation**
+     Lead the transformation to a data driven, customer obsessed Azure Technical Community.
+     - Strive to become a technical expert in your domain to build credibility with our customers service team peers. 
+     - Mine community data for insights and drive product improvements to address customer needs. 
+     - Build effective collaborative partnerships with service team peers while advocating on behalf of our customers to
+       drive significant product improvements. 
+     - Leverage an engineering mindset to build tools and processes needed to create a best of breed Azure Community experience for 
+       our customers. 
+       
+1. **Diversity & Inclusion**
 
-### **Extra priority for FastTrack People Managers.**
+**Key deliverables and expected business impact**   
 
-1. **[Auto populate] Build and grow effective inclusive teams.  Drive the Microsoft strategy.  Role model our Microsoft values, deliver exceptional results.  Drive culture with high bar for customer experience and diversity.**
-   - **Success metrics:** Hire to FY19 plan while taking into account all aspects of diversity, managing a high performing team, MS Poll and CXP WHI feedback.
+   **Champion Customer Success**
+   
+    - Build relationships and credibility with Service teams to establish effective communication channels. 
+    - Follow the customer journey in the community channels (for e.g. Twitter/Chat to forums to support) to ensure a great 
+      customer  experience 
+    - Build customer credibility through accumulated community points, blogs etc. 
+    - Identify and pilot new community channels to support e.g. Azure Advisors, MVP DLs, WW Communities etc.   
+
+   **Teamwork and Accountability**
+
+    - Exceed established SLA’s for supported community Channels while raising the Quality bar for the community
+    - Monitor the community health for the service area and anticipate rising issues 
+    - Become the SME for my service area and take the initiative to improve the awareness and depth of knowledge for the area 
+    - Work collaboratively with the team to help on customer queries. 
+    - Build Effective readiness content for new community engineers 
+    - Mentor LEAP candidates during their apprenticeship providing guidance and feedback as appropriate 
+
+  **Engineering-Led Community Transformation**
+ 
+   -  Identify and implement opportunities to utilize community data to increase operational efficiency getting the right answers to 
+      the customers faster 
+   -  Mine community data for insights and drive product improvements to address customer needs. 
+   -  Collect insights for service area on a monthly basis and present to service teams, pillar reviews, newsletter etc. 
+
+Build an engaged Azure engineering presence in our Community Channels.  Contribute to the development of Community Engagement plans to create a thriving Azure technical community. 
 
 -----
 
-**What are FastTrack Engineers responsible for?**
+**What are CXP Community Engineers responsible for?**
 
-Go to [FastTrack Engineer Core Responsibilities](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#fastrack-engineer-core-responsibilities) and/or [FastTrack Engineer Expectations](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#fastrack-engineer-expectations)
+Go to [Engineer Core Responsibilities](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#fastrack-engineer-core-responsibilities) and/or [FastTrack Engineer Expectations](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#fastrack-engineer-expectations)
 
 **What are the Core Priorities for FastTrack members?**
 
