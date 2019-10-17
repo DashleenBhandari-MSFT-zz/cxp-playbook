@@ -2,7 +2,7 @@
 
 >## **Audience**
 
-This **Microsoft internal only** playbook is for FastTrack for Azure team members and is **Microsoft Confidential**
+This **Microsoft internal only** playbook is for Azure CXP Community team members and is **Microsoft Confidential**
 
 >## **Objectives**
 
