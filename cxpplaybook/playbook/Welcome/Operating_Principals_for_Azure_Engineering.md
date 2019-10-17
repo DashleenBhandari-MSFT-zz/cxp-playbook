@@ -1,6 +1,5 @@
 # Operating Principals for Azure Engineering
 
-Topic SME: [Kuber Sharma](mailto:kushar@microsoft.com)
 
 ### **Customer Focus**
 
@@ -40,4 +39,4 @@ Go to [Operating Principles for Azure Engineering](https://github.com/Azure/fta-
 
 **Who owns the Operating Principles for Azure Engineering playbook area?**
 
-[Kuber Sharma](mailto:kushar@microsoft.com)
+[Mohit Verma](mailto:moverm@microsoft.com)
