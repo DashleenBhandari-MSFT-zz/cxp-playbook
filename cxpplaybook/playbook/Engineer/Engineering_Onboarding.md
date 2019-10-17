@@ -4,10 +4,6 @@ Topic SME: [Mohit Verma](mailto:Nomita.Paul@microsoft.com)
 
 > ## **Welcome to CXP Community for Azure**
 
-**Please use the Dynamics 365 Talent link that you received during Onboarding from the Readiness team to track and mark your onboarding tasks.**
-
-Review the PM/Engineer [RACI Chart](https://microsoft.sharepoint.com/:x:/t/AzureFastTrackCoreandExtended/EQaL6KCjo0ZKnxXhSVWC1MEBSjJ1OyJKvscAo1uYTAXZTQ?rtime=3Up_vZUl10g) that clearly defines whether a PM or Engineer or Lead is Responsible, Accountable, Consulted and/or Informed for each task throughout the customers lifecycle with FTA.  This document is the primary source of truth on best practices for **ALL** global PMs and Engineers to follow.
-
 > ## **Readiness mission**
 
 To onboard Community Engineers and enable them to deliver high-quality customer engagements consistent with Community methodology with a focus on raising their Azure proficiency, deepening Product Group collaboration and facilitating cross team knowledge sharing.
