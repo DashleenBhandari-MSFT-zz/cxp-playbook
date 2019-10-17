@@ -11,5 +11,5 @@
 | [Welcome to CXP](cxpplaybook/playbook/Welcome/Welcome_to_CXP.md)         | [Customer Engagement Model](cxpplaybook/playbook/CXPCommunity101/Customer_Engagement_Model.md)           | [Nomination Workflow](cxpplaybook/playbook/Engineer/Nomination_Workflow.md)          |
 | [Azure Operating Principals](cxpplaybook/playbook/Welcome/Operating_Principals_for_Azure_Engineering.md)   | [Engagement by customer type](cxpplaybook/playbook/CXPCommunity101/Engagement_by_Customer_Type.md)        |              |
 | [Azure Boot Camp](cxpplaybook/playbook/Welcome/Azure_Boot_Camp.md)       |    [Community Resources](cxpplaybook/playbook/CXPCommunity101/Community_Resources.md)     |  [Engagement Deliveries](cxpplaybook/playbook/Engineer/Engagement_Deliveries.md)        |
-| [Welcome to community for Azure](cxpplaybook/playbook/Welcome/Welcome_to_FastTrack_for_Azure.md)         |  [Customer Success Stories](cxpplaybook/playbook/CXPCommunity101/Customer_Success_Stories.md)             |               | [Azure PG Engagement Model](cxpplaybook/playbook/Engineer/Azure_Product_Group_Engagement_Model.md)    |
+
 
