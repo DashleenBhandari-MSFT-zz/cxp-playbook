@@ -67,8 +67,8 @@ Go to [Engineer Core Responsibilities](https://github.com/Azure/fta-playbook/blo
 
 **What are the Core Priorities for FastTrack members?**
 
-[Core Priorities for all FastTrack team members](https://github.com/Azure/fta-playbook/blob/master/ftaplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#core-priorities-for-all-fasttrack-team-members)
+[Core Priorities for all FastTrack team members](https://github.com/azure-cxp-community/cxp-playbook/blob/master/cxpplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md#core-priorities-for-all-fasttrack-team-members)
 
 **Who owns the Engineer Core Responsibilities playbook area?**
 
-[Nomita Paul](mailto:Nomita.Paul@microsoft.com)
+[Mohit Verma](mailto:Verma.Mohit@microsoft.com)
