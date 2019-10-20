@@ -3,7 +3,7 @@
 
 | Welcome                        | CXP Community 101                             | Engineer                     |
 |--------------------------------|---------------------------------|------------------------------|
-|[About this Playbook](cxpplaybook/playbook/Welcome/About_this_Playbook.md)             | [What is Azure CXP Community](cxpplaybook/playbook/Community101/Community.md)      | [Engineer Onboarding](cxpplaybook/playbook/Engineer/Engineering_Onboarding.md)         |
+|[About this Playbook](cxpplaybook/playbook/Welcome/About_this_Playbook.md)             | [What is Azure CXP Community](cxpplaybook/playbook/CXPCommunity101/Community.md)      | [Engineer Onboarding](cxpplaybook/playbook/Engineer/Engineering_Onboarding.md)         |
 |    [Welcome to CXP Community for Azure](cxpplaybook/playbook/Welcome/Welcome_to_CXP_Community_for_Azure.md)             |  [Team culture](cxpplaybook/playbook/Community_101/Team_Culture.md)| [Core responsibilities](cxpplaybook/playbook/Engineer/Engineering_Core_Responsibilities.md)       | 
 | [Welcome to Microsoft](cxpplaybook/playbook/Welcome/Welcome_to_Microsoft.md)          | [Other community programs](cxpplaybook/playbook/CXPCommunity101/Other_community_programs_at_Micrsoft.md)        |  [Learning & Credentialing](cxpplaybook/playbook/Engineer/Continuous_Learning_and_Credentialing.md)     |
 | [Microsoft Org Structure](cxpplaybook/playbook/Welcome/Microsoft_Organizational_Structure.md)           |[Community Org Roles](cxpplaybook/playbook/CXPCommunity101/FTA_Org_&_Roles.md)                   |  [Intellectual Property](cxpplaybook/playbook//Engineer/Intellectual_Property_(IP).md)         |
