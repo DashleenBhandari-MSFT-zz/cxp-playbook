@@ -4,10 +4,10 @@ Docs to be linked from this page:
 
 | Forum | Moderation | Follow-up | Watchtower | Centinel | Handover |
 |--|--|--|--|--|--|
-| GitHub | [Draft](../Community_101/Processes/moderating_community.md) | [Stub](../Community_101/Processes/thread_follow-up.md) | | | [Stub](../Community_101/Processes/moderating_community.md) |
-| MSDN | (TBD) | (TBD) | (TBD) |
-| StackOverflow | (TBD) | (TBD) | (TBD) |
-| Minerva (Q&A) | (Future) | (Future) | (Future)
+| GitHub | [Draft](cxpplaybook/playbook/Community_101/Processes/moderate_github_draft.md) + [Stub](../Community_101/Processes/moderating_community.md) | [Stub](../Community_101/Processes/thread_follow-up.md) | (TBD) | (Future) | [Stub](../Community_101/Processes/moderating_community.md) |
+| MSDN | (TBD) | (TBD) | (TBD) | (Future) | (TBD) |
+| StackOverflow | (TBD) | (TBD) | (TBD) | (Future) | (TBD) |
+| Minerva (Q&A) | (Future) | (Future) | (Future) | (Future) | (Future) |
 
 
 
