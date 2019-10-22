@@ -1,0 +1,5 @@
+site_name: CXP Community Playbook
+nav:
+     - 'index.md'
+theme:
+  name: 'material'
