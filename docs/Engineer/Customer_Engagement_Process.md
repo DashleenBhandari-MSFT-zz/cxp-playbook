@@ -2,7 +2,7 @@ Placeholder for Customer_Engagement_Process.md
 
 Docs to be linked from this page:
 
-Document [Moderating the Community process](../Community_101/Processes/moderating_community.md) in github under Process Module.
+Document [Moderating the Community process](../Community_101/Processes/cxp_moderating_github.md) in github under Process Module.
 
 
 Document [Geographic Handover](../Community_101/Processes/geographic_handover.md) for escalations and high priority issues.
