@@ -80,9 +80,12 @@ Is Product Issue|If you can reproduce the issue, check MSSolve if the case alrea
 Closed by the customer prior to triage|Update the issue with the appropriate labels: Triaged, [root cause label e.g.`doc-enhancement`, `product-issue`], [add owning team label = e.g. `cxp` or `assigned-to-author`], `resolved-by-customer` label, etc. as needed.
 How to question|For how-to scenarios very specific to the customer, redirect to the forums (MSDN, Stack overflow) and help the customer on the forum.
 
-## Process Flow-chart
+## Process Flow-chart & Platform Specific Processes
 
-Working on images for repo.
+![alt text](../../docs/images/ProcessImages/GitHub_Process.png "GitHub Process Flow-chart")
+
+
+[Triage Driver Workflow in WT](https://microsoft.sharepoint.com/:p:/t/AzureCXPCommunityEngineers/EUIXPvsWJ_xIjwpOXgzRzoUBbE3nBKOXonjbV6wba3qQ-Q?e=bm4Abn  "WT Workflow – Triage Driver")
 
 ## References
 
