@@ -25,7 +25,7 @@ To onboard Community Engineers and enable them to deliver high-quality customer 
 
 It defines the experience of the engineer from the day you join to the day you deliver. It has two parts:
 
-#### FTA Orientation
+#### CXP Community Orientation
 
 - Identify your core skills with CXP Community domain areas- App, Infra or Data
 - Onboarding checklist that will help complete tasks needed by a new hire like joining all the DL&#8217;s, access to GitHub etc.

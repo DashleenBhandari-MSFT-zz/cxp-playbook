@@ -6,7 +6,7 @@
 
 >## Cloud + AI Leadership and Structure
 
-Cloud+ AI covers most of Microsoft's Business Applications and Cloud Services. The FTA team is part of the Azure Customer Experience Engineering (CXP) team, which in turn is part of the Azure engineering organization.
+Cloud+ AI covers most of Microsoft's Business Applications and Cloud Services. The Community team is part of the Azure Customer Experience Engineering (CXP) team, which in turn is part of the Azure engineering organization.
 
 Who leads cloud and AI services at Microsoft?
 ![CloudAiLeadership](../images/WelcomeImages/CloudAILeadership.png)
